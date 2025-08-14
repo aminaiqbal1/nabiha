@@ -48,11 +48,3 @@ intro("John", 30 )
 # basicConfig se hum logging ka setup karte hain.
 # level=logging.DEBUG se hum logging ka level define karte hain. Yani ki sabse zyada detail wale messages show hote hain.
 # format se hum message ka format define karte hain.
-
-
-
-
-
-
-
-
